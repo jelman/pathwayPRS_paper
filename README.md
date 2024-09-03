@@ -6,7 +6,8 @@ Code used in the manuscript investigating associations between pathway-specific 
 * **Jeremy A. Elman** - *University of California San Diego*
 
 ### Citation
-Schork, NJ, Elman,. Pathway-specific polygenic risk scores correlate with clinical status and Alzheimer’s-related biomarkers, 01 March 2023, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-2583037/v1]
+Schork, N. J., Elman, J. A., & Alzheimer's Disease Neuroimaging, I. (2023). Pathway-Specific Polygenic Risk Scores Correlate with Clinical Status and Alzheimer's Disease-Related Biomarkers. J Alzheimers Dis, 95(3), 915-929. doi:10.3233/JAD-230548. [Link to article](https://content.iospress.com/articles/journal-of-alzheimers-disease/jad230548)
+
 
 ### Prerequisites:
 1. [MAGMA](https://ctg.cncr.nl/software/magma)
